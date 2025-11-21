@@ -1,0 +1,13 @@
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.000000" height="22.000000" fill="none" customFrame="#000000">
+	<defs>
+		<clipPath id="clipPath_0">
+			<rect width="22.000000" height="22.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<g id="facebook">
+		<g id="facebook-f" clip-path="url(#clipPath_0)" customFrame="url(#clipPath_0)">
+			<rect id="facebook-f" width="22.000000" height="22.000000" x="0.000000" y="0.000000" fill="rgb(0,0,0)" fill-opacity="0" />
+			<path id="Vector" d="M16.1193 12.375L16.7303 8.39352L12.91 8.39352L12.91 5.8098C12.91 4.72055 13.4436 3.65879 15.1546 3.65879L16.8914 3.65879L16.8914 0.268984C16.8914 0.268984 15.3153 0 13.8084 0C10.6623 0 8.60578 1.90695 8.60578 5.35906L8.60578 8.39352L5.10855 8.39352L5.10855 12.375L8.60578 12.375L8.60578 22L12.91 22L12.91 12.375L16.1193 12.375Z" fill="rgb(255,255,255)" fill-rule="nonzero" />
+		</g>
+	</g>
+</svg>
