@@ -102,7 +102,7 @@ html {
 }
 
 .promo__title {
-    color: var(--light-color, rgba(245, 245, 247, 1));
+    color: red;
     font-size: 60px;
     font-weight: 400;
     line-height: 73px;
